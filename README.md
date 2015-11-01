@@ -4,7 +4,7 @@ Flugvaktin
 Vöktunarþjónusta fyrir nettilboð hjá Flugfélags Íslands.
 
 ## Tilgangur:
-Að fljúga innanlands er dýrt en það er hægt að spara með því að ná nettilboði. Þau eru aftur á móti mjög óaðgengileg þar sem þau koma á tilviljandi tímum á vefslóð sem erfitt er að finna. Flugvaktin sér um að láta þig vita þegar tilboðið sem þú ert að leyta kemur inn.
+Að fljúga innanlands er dýrt en það er hægt að spara með því að ná nettilboði. Þau eru aftur á móti mjög óaðgengileg þar sem þau koma á tilviljandi tímum á vefslóð sem erfitt er að finna. Flugvaktin sér um að láta þig vita þegar tilboðið sem þú ert að leita að kemur inn.
 
 ## Keyrsla
 ```
@@ -14,7 +14,7 @@ npm start
 Ný tilboð eru sótt á 4 mín + (0-60) sec fresti. Til að senda email þurfa `FLUGVAKTIN_EMAIL` og `FLUGVAKTIN_EMAIL` umhverfisbreyturnar að vera settar á og vera réttar fyrir Gmail aðgang.
 
 ## Lýsing:
-Vefapp þar sem notandi getur séð núverandi tilboð Flugélags íslands og valið flugleið og tímabil til að vakta. Þetta gæti t.d. verið Akureyri -> Reykjavík Sunnudaginn 7. Júní á undir 12000 kr. Ef nýtt tilboð kemur inn sem uppfyllir þau skilyrði sem notandinn valdi fær hann tilkynningu um það með tölvupósti. Þetta eykur líkurnar taksvert að notandinn geti nýtt sér tilboðið.
+Vefapp þar sem notandi getur séð núverandi tilboð Flugélags íslands og valið flugleið og tímabil til að vakta. Þetta gæti t.d. verið Akureyri -> Reykjavík Sunnudaginn 7. Júní á undir 12000 kr. Ef nýtt tilboð kemur inn sem uppfyllir þau skilyrði sem notandinn valdi fær hann tilkynningu um það með tölvupósti. Þetta eykur líkurnar talsvert að notandinn geti nýtt sér tilboðið.
 
 Þetta hentar sérstaklega vel fyrir þá sem þurfa ekki að komast flugleiðina á föstum tímasetningum og hafa ekki kost á að hoppa. Tilboð eru oft svipað hagstæð og hopp og er góð viðbót fyrir þá sem myndu nýta sér það. Núverandi síða nettilboða: https://www.flugfelag.is/nettilbod?departureAirport=RKV&destinationAirport=AEY&fareclasslimitations=U,E,S,T,T1,T2
 
